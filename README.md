@@ -1,7 +1,7 @@
 # Easy Guitar
 超简单的离线电吉他编曲工具。
 
-## 效果预览：Easy_Guitar.wav
+## 音频效果预览：Easy_Guitar.wav
 
 - Guitar A / B：Piano Roll 主奏
 - Guitar C / D：扫弦
