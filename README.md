@@ -8,9 +8,9 @@
 - 支持四轨同步播放
 - 支持单轨 WAV 导出和混合导出
 
-“`markdown
+`markdown
 [播放音乐](https://raw.githubusercontent.com/username/repository/branch/song.mp3)
-”`
+`
 
 ## 使用
 
