@@ -1,5 +1,6 @@
 # Easy Guitar
 超简单的离线电吉他编曲工具。
+访问链接：https://lovesky514514-cmd.github.io/Easy-Guitar
 
 ## 音频效果预览：Easy_Guitar.wav
 
